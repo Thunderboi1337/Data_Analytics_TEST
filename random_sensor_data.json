@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2024-01-16T14:29:05.320534Z",
+    "sensor_id": "humidity_sensor_1",
+    "value": 19.6,
+    "unit": "Celsius",
+    "location": {
+      "latitude": -20.06611,
+      "longitude": -5.527137
+    }
+  },
+  {
+    "timestamp": "2024-01-16T14:29:05.320581Z",
+    "sensor_id": "temperature_sensor_1",
+    "value": 19.24,
+    "unit": "Celsius",
+    "location": {
+      "latitude": 88.353847,
+      "longitude": -128.838118
+    }
+  },
+  {
+    "timestamp": "2024-01-16T14:29:05.320585Z",
+    "sensor_id": "pressure_sensor_1",
+    "value": 10.58,
+    "unit": "Celsius",
+    "location": {
+      "latitude": -81.875419,
+      "longitude": 27.499115
+    }
+  },
+  {
+    "timestamp": "2024-01-16T14:29:05.320590Z",
+    "sensor_id": "humidity_sensor_1",
+    "value": 13.23,
+    "unit": "Celsius",
+    "location": {
+      "latitude": -82.978495,
+      "longitude": 28.406866
+    }
+  },
+  {
+    "timestamp": "2024-01-16T14:29:05.320593Z",
+    "sensor_id": "pressure_sensor_1",
+    "value": 13.67,
+    "unit": "Celsius",
+    "location": {
+      "latitude": -4.028398,
+      "longitude": -54.523055
+    }
+  }
+]
