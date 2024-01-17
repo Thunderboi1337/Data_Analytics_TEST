@@ -1,52 +1,100 @@
 [
   {
-    "timestamp": "2024-01-16T14:29:05.320534Z",
-    "sensor_id": "humidity_sensor_1",
-    "value": 19.6,
-    "unit": "Celsius",
-    "location": {
-      "latitude": -20.06611,
-      "longitude": -5.527137
-    }
-  },
-  {
-    "timestamp": "2024-01-16T14:29:05.320581Z",
+    "timestamp": "2024-01-15T06:54:51.969274Z",
     "sensor_id": "temperature_sensor_1",
-    "value": 19.24,
+    "value": 23.14,
     "unit": "Celsius",
-    "location": {
-      "latitude": 88.353847,
-      "longitude": -128.838118
-    }
+    "location": {}
   },
   {
-    "timestamp": "2024-01-16T14:29:05.320585Z",
+    "timestamp": "2024-01-16T06:54:51.969274Z",
+    "sensor_id": "temperature_sensor_1",
+    "value": 14.99,
+    "unit": "Celsius",
+    "location": {}
+  },
+  {
+    "timestamp": "2024-01-15T06:54:51.969274Z",
     "sensor_id": "pressure_sensor_1",
-    "value": 10.58,
+    "value": 24.27,
     "unit": "Celsius",
-    "location": {
-      "latitude": -81.875419,
-      "longitude": 27.499115
-    }
+    "location": {}
   },
   {
-    "timestamp": "2024-01-16T14:29:05.320590Z",
+    "timestamp": "2024-01-16T06:54:51.969274Z",
     "sensor_id": "humidity_sensor_1",
-    "value": 13.23,
+    "value": 27.97,
     "unit": "Celsius",
-    "location": {
-      "latitude": -82.978495,
-      "longitude": 28.406866
-    }
+    "location": {}
   },
   {
-    "timestamp": "2024-01-16T14:29:05.320593Z",
+    "timestamp": "2024-01-16T07:01:18.853394Z",
     "sensor_id": "pressure_sensor_1",
-    "value": 13.67,
+    "value": 15.03,
     "unit": "Celsius",
-    "location": {
-      "latitude": -4.028398,
-      "longitude": -54.523055
-    }
+    "location": {}
+  },
+  {
+    "timestamp": "2024-01-17T07:01:18.853394Z",
+    "sensor_id": "humidity_sensor_1",
+    "value": 10.97,
+    "unit": "Celsius",
+    "location": {}
+  },
+  {
+    "timestamp": "2024-01-17T07:01:18.853394Z",
+    "sensor_id": "pressure_sensor_1",
+    "value": 19.14,
+    "unit": "Celsius",
+    "location": {}
+  },
+  {
+    "timestamp": "2024-01-17T07:01:18.853394Z",
+    "sensor_id": "pressure_sensor_1",
+    "value": 28.81,
+    "unit": "Celsius",
+    "location": {}
+  },
+  {
+    "timestamp": "2024-01-17T07:01:18.853394Z",
+    "sensor_id": "temperature_sensor_1",
+    "value": 13.63,
+    "unit": "Celsius",
+    "location": {}
+  },
+  {
+    "timestamp": "2024-01-18T07:01:18.853394Z",
+    "sensor_id": "pressure_sensor_1",
+    "value": 15.03,
+    "unit": "Celsius",
+    "location": {}
+  },
+  {
+    "timestamp": "2024-01-18T07:01:18.853394Z",
+    "sensor_id": "humidity_sensor_1",
+    "value": 10.97,
+    "unit": "Celsius",
+    "location": {}
+  },
+  {
+    "timestamp": "2024-01-18T07:01:18.853394Z",
+    "sensor_id": "pressure_sensor_1",
+    "value": 19.14,
+    "unit": "Celsius",
+    "location": {}
+  },
+  {
+    "timestamp": "2024-01-18T07:01:18.853394Z",
+    "sensor_id": "pressure_sensor_1",
+    "value": 28.81,
+    "unit": "Celsius",
+    "location": {}
+  },
+  {
+    "timestamp": "2024-01-18T07:01:18.853394Z",
+    "sensor_id": "temperature_sensor_1",
+    "value": 13.63,
+    "unit": "Celsius",
+    "location": {}
   }
 ]
